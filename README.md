@@ -1,4 +1,1 @@
-# AD 340 Mobile Application Development
-*Nate Ebel*
-
-Project code for AD 340 - 5210, Spring 2020
+try it out:-https://appetize.io/app/kekpbxzwv593ydzx3pqmmfyfc0?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
